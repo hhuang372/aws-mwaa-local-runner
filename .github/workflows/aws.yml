@@ -1,7 +1,3 @@
-Deploy to Amazon ECS workflow.
-
-Copy the following template and paste in the text field. Substitute the value in aws-region. You can also download the template.
-
 name: Deploy to Amazon ECS
 
 on:
